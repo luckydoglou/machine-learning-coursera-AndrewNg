@@ -10,5 +10,6 @@ week5: cost function in neural network; feedforward; backpropagation; </br>
 week6: evaluating a learning algorithm; bias vs variance; </br>
 week7: support vector machines; kernels; </br>
 week8: unsupervised learning; clustering; k-means; PCA; </br>
+week9: anomaly detection; density estimation; (multivariate) guassian distribution; recommender system; collaborative filtering; mean normalization </br>
 
 
