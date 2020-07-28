@@ -28,4 +28,4 @@ main topics:
 ```
 
 ## Certificate
-[Certificate](https://www.coursera.org/account/accomplishments/certificate/YP72FQQ3YWPM)
+[Machine Learning Certificate](https://www.coursera.org/account/accomplishments/certificate/YP72FQQ3YWPM)
